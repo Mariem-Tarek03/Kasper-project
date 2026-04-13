@@ -831,7 +831,7 @@ header nav .form i{
 .subscribe{
    padding-top: var(--section-padding);
    padding-bottom: var(--section-padding);
-   background-image: url(/images/slider-bg.jpg);
+   background-image: url("images/slider.jpg");
    background-size: cover;
 }
 .subscribe .container{
